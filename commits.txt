@@ -1,0 +1,23 @@
+commit 8c0e2017cc2ff98528d3042abef1c54e86afb4ee
+Author: john <john@john.com>
+Date:   Wed Sep 13 12:52:34 2017 -0500
+
+    modificación en test.js
+
+commit 8130936c4bab00dc32d7b3e8467d7c5aeb1b204b
+Author: juanhdezran <31933073+juanhdezran@users.noreply.github.com>
+Date:   Wed Sep 13 12:48:44 2017 -0500
+
+    Create test.js
+
+commit 483926d48a801febb76287a90bde5f5368143525
+Author: john <john@john.com>
+Date:   Wed Sep 13 12:36:17 2017 -0500
+
+    segundo commit de prueba
+
+commit 76401cfcb0db1e5bdde6a6f91ae363e8b99fb0e1
+Author: john <john@john.com>
+Date:   Wed Sep 13 12:29:05 2017 -0500
+
+    mi primer commit desde sublime git
